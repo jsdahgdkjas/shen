@@ -1,15 +1,13 @@
-姓    名：刘胜男
-身 份 證： 51018219960214027X
-姓    名：王军
-身 份 證： 510182199608090931
-姓    名：李奇徽
-身 份 證： 510182199608265412
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'">
-    <meta content="origin" name="referrer">
+
+
+Name:Jun Wang (王军)
+ID: 510182199608090931
+
+Name:QiHui LI（李齐辉）
+ID:510182199608265412
+
+
+ <meta content="origin" name="referrer">
     <title>Rate limit &middot; GitHub</title>
     <style type="text/css" media="screen">
       body {
